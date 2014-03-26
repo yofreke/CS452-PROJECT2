@@ -1,4 +1,13 @@
-Score system, Win or Loss condition, Texture mapping of the objects, Lighting, User interaction.    
+Create a Score system, Win or Loss condition, Texture mapping of the objects, Lighting of the scene, and User interaction.    
 
 Option A:
-Create 
+Create soccer or hockey field.
+Create a soccer ball or hockey puck.
+Create a means of shooting the socccor ball or puck into the goal.
+
+
+Option B:
+Create a maze.
+Create a ball.
+When the plane tilts the ball moves according to how tilted the maze is an example is the game play of Monkey Ball 2.
+
