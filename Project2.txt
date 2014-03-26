@@ -1,2 +1,4 @@
+Score system, Texture mapping of the objects, Lighting,   
+
 Option A:
 Create 
