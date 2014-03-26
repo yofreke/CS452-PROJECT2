@@ -1,4 +1,4 @@
-Score system, Texture mapping of the objects, Lighting, User interaction.   
+Score system, Win or Loss condition, Texture mapping of the objects, Lighting, User interaction.    
 
 Option A:
 Create 
