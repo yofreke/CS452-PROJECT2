@@ -1,3 +1,3 @@
 CS452-PROJECT2
 ==============
-Due April 18
+Due Friday April 18
