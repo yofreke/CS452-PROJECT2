@@ -10,7 +10,6 @@ We used the following premade classes from the tutorial series:
 - texture.cpp
 - controls.cpp
 - objloader.cpp
-- vboindexer.cpp
 
 Edit summary: controls.cpp
 	This class offered nothing in the way of gravity to begin with, and offered no form of collision detection.  We added this functionality by adding the functions:
