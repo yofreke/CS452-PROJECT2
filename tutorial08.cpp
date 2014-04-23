@@ -19,7 +19,7 @@ using namespace glm;
 #include "texture.hpp"
 #include "controls.hpp"
 #include "objloader.hpp"
-#include "vboindexer.hpp"
+// #include "vboindexer.hpp"
 #include "Chest.cpp"
 
 #include "maze.hpp"
