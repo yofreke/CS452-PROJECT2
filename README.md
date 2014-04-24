@@ -58,5 +58,3 @@ The main class functions as follows:
 		- Render current chest
 
 NOTE: The lose condition of this game is when you run out of time.  In real life.  When you die as a human being.  The game goes on forever.
-
-NOTE: Compile with command "g++ -g  -lGL -lGLEW -lglfw tutorial08.cpp shader.cpp texture.cpp controls.cpp objloader.cpp vboindexer.cpp maze.cpp"

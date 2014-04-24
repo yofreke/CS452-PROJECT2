@@ -17,7 +17,7 @@ using namespace glm;
 #include "shader.hpp"
 #include "texture.hpp"
 #include "objloader.hpp"
-#include "vboindexer.hpp"
+// #include "vboindexer.hpp"
 
 #ifndef CHEST_CPP
 #define CHEST_CPP
